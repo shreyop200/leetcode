@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Using [LeetHub
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/shreyop200/leetcode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/shreyop200/leetcode/tree/master/2235-add-two-integers) |
 ## Tree
 |  |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Using [LeetHub
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/shreyop200/leetcode/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/shreyop200/leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/shreyop200/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
