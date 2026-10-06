@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Using [LeetHub
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shreyop200/leetcode/tree/master/0001-two-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/shreyop200/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/shreyop200/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Using [LeetHub
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shreyop200/leetcode/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/shreyop200/leetcode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
